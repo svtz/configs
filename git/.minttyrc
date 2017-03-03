@@ -1,0 +1,10 @@
+BoldAsFont=yes
+Font=Courier
+FontHeight=10
+Term=xterm
+Columns=120
+Rows=40
+BackgroundColour=0,0,0
+ForegroundColour=167,179,180
+FontSmoothing=default
+BoldAsColour=yes
